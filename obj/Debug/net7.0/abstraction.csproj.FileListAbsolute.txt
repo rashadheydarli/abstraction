@@ -1,0 +1,5 @@
+/Users/rashadheydarli/Projects/abstraction/abstraction/obj/Debug/net7.0/abstraction.csproj.AssemblyReference.cache
+/Users/rashadheydarli/Projects/abstraction/abstraction/obj/Debug/net7.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadheydarli/Projects/abstraction/abstraction/obj/Debug/net7.0/abstraction.AssemblyInfoInputs.cache
+/Users/rashadheydarli/Projects/abstraction/abstraction/obj/Debug/net7.0/abstraction.AssemblyInfo.cs
+/Users/rashadheydarli/Projects/abstraction/abstraction/obj/Debug/net7.0/abstraction.csproj.CoreCompileInputs.cache
